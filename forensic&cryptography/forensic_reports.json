@@ -1,0 +1,155 @@
+[
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-10-30 00:14:12",
+      "end_time": "2024-10-30 01:10:10",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.597214+00:00",
+    "evidence_hash": "ec70970f3105111c05771395bfc9ab51f2192691a890f3b11659616e7087bf1b",
+    "signature": "30440220533d79b30737ebc8447cae206f069664432bef25dc72fcdee4cb14c2be4d50bf02201c9b452dea848e3ab67666df7906fca6a9035e1fe5a7a5ca7d7f144706e13377"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-02 13:43:13",
+      "end_time": "2024-11-02 13:57:35",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.600610+00:00",
+    "evidence_hash": "e3662de096eb51890874ab910e37611ba3a87e82b6e7718bbef2437356fc4f07",
+    "signature": "3045022100f3fc8655301066f1440087130ad2b46797aa3b9aaf8c6ae19a12493c1441bc4002200b4ae42f1a7bd6f3180abfeb9bec4c36d45d75d3b785544b74d231eee69054c0"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-03 12:45:10",
+      "end_time": "2024-11-03 12:56:19",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.601090+00:00",
+    "evidence_hash": "79e8f6e367fc5c7b82043b703b747497c295b4375c82f2312fee7846dd1b0e37",
+    "signature": "304402206491c65a688d60a550937b69a2d27a9f959f75fe9230ce345ba4571ee77613e70220358f6434575a4fc95109fc531419c8635b93b0b76bd856cfe0398e35b8587925"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-03 20:07:39",
+      "end_time": "2024-11-03 20:37:39",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.601337+00:00",
+    "evidence_hash": "acf18e431fd97769ec3def578ca8e48989407ffbc7af18bf0bce7fb06035d6d4",
+    "signature": "3045022064987ff4e13435819ba47992b9d1d24099fcb91081eb4488f2d57f9c0dd548cb022100ea3b8c28bf8a3e4adb394261aa195bf672607c95b1102e7b222fdde06db1f1e4"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-04 21:54:03",
+      "end_time": "2024-11-04 22:06:28",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.601590+00:00",
+    "evidence_hash": "3fa1a5d1f884ec8ece847e85b0e6992fe7b35099f5bc129c7985b9ac42d2dbc4",
+    "signature": "3045022032b083dbeeae4b9e514f3aac230ff38cc2ba41cd998da78bd8b8ce3c3a8f6c3e022100e84c3e094ef602734243b64d28843786336a3f891456a182deebb88cff58b1cc"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Account Enumeration",
+      "technique": "Account Discovery",
+      "mitre_id": "T1087",
+      "severity": 2,
+      "start_time": "2024-11-06 18:19:27",
+      "end_time": "2024-11-06 18:19:37",
+      "analysis": "Attack pattern 'Account Enumeration' detected using behavioral correlation. Mapped to MITRE technique T1087."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.601826+00:00",
+    "evidence_hash": "b62a6bb80f2c47ebfa6317b1625fcf69d928ccb965f8e58d8ca8011e80ea1367",
+    "signature": "3046022100dcff1ed95d52a910228e2417d1364f5c471a8bf6eb01cf921793d05ffb03863b0221008589ba7c297506d9c390dde8b96e6763bbc938185480545538c0587e59185ea2"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Time Manipulation",
+      "technique": "Time Manipulation",
+      "mitre_id": "T1070",
+      "severity": 2,
+      "start_time": "2024-11-11 10:18:34",
+      "end_time": "2024-11-11 10:18:34",
+      "analysis": "Attack pattern 'Time Manipulation' detected using behavioral correlation. Mapped to MITRE technique T1070."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.602028+00:00",
+    "evidence_hash": "a8737b482bb1010acebd9db4eebe9ec3cdcf3a33b318286ec24f32c4e142ce96",
+    "signature": "3046022100d94731c210d489105b30d5ba77dd531a88dd49e00dbeb0e544643aa72de5ccf902210082f107667b496e6647a38738ba1c2bdac1382d8bd4714d06ff74e5070a0db5d6"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-18 10:55:38",
+      "end_time": "2024-11-18 11:23:49",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.602222+00:00",
+    "evidence_hash": "b5173be970eda99f6ff3812dd224c45c6d3790a3857a0cfaa74dff6f3d625dac",
+    "signature": "304402205b7c3bfcdb85f4f33911eae9c47a3abc23df45931de28ccee662d308936b48b202200a1b174c9101a19fe888fa08be8e5416cf429af8284fa26c243296ac49c1be3d"
+  },
+  {
+    "log_source": "windows",
+    "original_log": {
+      "attack": "Credential Dump",
+      "technique": "Credential Dump",
+      "mitre_id": "T1003",
+      "severity": 2,
+      "start_time": "2024-11-19 11:42:13",
+      "end_time": "2024-11-19 15:32:54",
+      "analysis": "Attack pattern 'Credential Dump' detected using behavioral correlation. Mapped to MITRE technique T1003."
+    },
+    "risk_score": 1.0,
+    "model_version": "windows_rf_v2",
+    "decision_timestamp": "2026-03-13T08:35:15.602417+00:00",
+    "evidence_hash": "75b4a9d7ac5c1e78ed54889c7363dd27b3dfacf0a7c5d3e3a17ca9e86a9c8e32",
+    "signature": "304402204eff612f9ec2c4deed778d2adeceeb693aed63366d10ae22b78c800a518cf8bd02202f6ee71e27dc596ca08628dc21db585bc4dd3cd40ef68bdf792738d92af82556"
+  }
+]
